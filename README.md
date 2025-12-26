@@ -6,7 +6,7 @@
 
 [![Go Version](https://img.shields.io/badge/Go-1.22+-00ADD8?style=flat-square&logo=go&logoColor=white)](https://go.dev/)
 [![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
-[![Build Status](https://img.shields.io/github/workflow/status/TheRemyyy/volex-dns/build?style=flat-square)](https://github.com/TheRemyyy/volex-dns/actions)
+[![Build Status](https://img.shields.io/github/actions/workflow/status/TheRemyyy/volex-dns/build.yml?style=flat-square)](https://github.com/TheRemyyy/volex-dns/actions)
 
 *A high-performance, caching DoT (DNS over TLS) forwarder customized for speed and privacy.*
 
