@@ -1,0 +1,12 @@
+{
+  "upstreams": [
+    "1.1.1.1:853",
+    "8.8.8.8:853",
+    "9.9.9.9:853"
+  ],
+  "server_name": "volex.dns",
+  "bind_addr": ":53",
+  "upstream_timeout_ms": 2000,
+  "cache_max_ttl_sec": 3600,
+  "cache_min_ttl_sec": 60
+}
