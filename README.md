@@ -65,6 +65,8 @@ Run the binary with Administrator privileges (required for binding to port 53):
 sudo ./volex-dns
 ```
 
+---
+
 ## <a id="documentation"></a>📄 Documentation
 
 Detailed technical information can be found in the `docs/` directory:
