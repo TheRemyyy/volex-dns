@@ -10,11 +10,20 @@
 
 *A high-performance, caching DoT (DNS over TLS) forwarder customized for speed and privacy.*
 
-[Features](#features) • [Installation](#installation) • [Configuration](#configuration)
+[Features](#features) • [Installation](#installation) • [Configuration](#configuration) • [Documentation](#documentation)
 
 </div>
 
 ---
+
+## Documentation
+
+Detailed technical information can be found in the `docs/` directory:
+
+- 📖 **[Documentation Overview](docs/overview.md)** — Start here for a complete guide.
+- 🏗️ **[Architecture](docs/architecture.md)** — How Volex DNS works under the hood.
+- ⚙️ **[Configuration](docs/configuration.md)** — Detailed guide on all configuration parameters.
+- 🛠️ **[Development](docs/development.md)** — How to build and contribute to the project.
 
 ## Overview
 
